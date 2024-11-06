@@ -20,7 +20,7 @@
     border-radius: 10px;
     position: fixed;
     top: 20px;
-    left: 10px;
+    left: 40px;
   }
   
   .sitting img, .photo img {
@@ -37,13 +37,14 @@
     position: fixed;
     min-width: 290px;
     top: 220px;
-    left: 0px;
+    left: 20px;
     width: 300px;
     height: 100%;
     padding: 20px;
     font-family: "rodchenko", sans-serif;
   font-weight: 400;
   font-style: normal;
+    font-size: 2rem;
     
   }
   
